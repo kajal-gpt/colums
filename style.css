@@ -1,0 +1,6 @@
+.bg-primary-gradient {
+    background: linear-gradient(to bottom right, #4294e3, #8f12fd);
+}
+.rounded-circle {
+    border-radius: 50% !important;
+}
